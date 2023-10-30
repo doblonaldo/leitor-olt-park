@@ -1,0 +1,41 @@
+ztegd2304a36 | F670LV9.0                     
+prks00b79eab |                              
+prks00bcc95b    |                               
+ztegc8c9ac69    | F670LV1.1.01                  
+prks00bc943a    | FiberLink101                  
+prks00c98450    | FiberLink101                  
+prks00b7a1dc    | Fiberlink 2200B (SFU)         
+ztegd2304a39    | F670LV9.0                     
+prks00bdb014    |                               
+ztegc4abfa03    | F670LV1.1.01                  
+ztegc4b22d11    |                               
+prks00b79fbd    | Fiberlink 1100 (RGW)          
+ztegd2301e35    | F670LV9.0                     
+ztegce875439    | F670LV1.1.01                  
+ztegcf537907    |                               
+ztegcce808d3    | F601V7.0                      
+ztegc4b3114f    | F670LV1.1.01                  
+ztegcf5410aa    | F670LV1.1.01                  
+prks00b9764d    |                               
+ztegcce7d832    | F601V7.0                      
+ztegd23017fd    | F670LV9.0                     
+prks00ba7c19    | Fiberlink 1100B (SFU) Rev 3   
+ztegd3200547    | F670LV9.0                     
+ztegd3200d3d    | F670LV9.0                     
+ztegd29b9fc6    | F670LV9.0                     
+ztegd2b0e38c    | F670LV9.0                     
+ztegd1ea9759    | F670LV9.0                     
+prks00bccdfd    | FiberLink101                  
+prks00bccec5    | FiberLink101                  
+prks00bcd236    | FiberLink101                  
+prks00bdb402    | FiberLink101                  
+prks00bdb403    | FiberLink101                  
+prks00bdb8f9    | FiberLink101                  
+prks00be24c1    | FiberLink101V1.0              
+prks00be24cd    | FiberLink101                  
+prks00bfe7e5    | FiberLink101                  
+prks00c28b32    | FiberLink101                  
+ztegc4a62f2d    | F680V6.0.03                   
+ztegc4b252c9    | F670LV1.1.01                  
+ztegc4b34ada    | F670LV1.1.01                  
+prks00c980d3    | FiberLink101 
